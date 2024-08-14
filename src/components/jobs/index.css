@@ -1,0 +1,45 @@
+.all-products-section {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  max-width: 20vw;
+  min-width: 20vw;
+  padding: 20px;
+}
+.product-item-details-container {
+  display: flex;
+  flex-direction: row;
+}
+.progile {
+  max-height: 200px;
+  max-width: 300px;
+}
+.profileimg {
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+}
+.profilehead {
+  font-size: 10px;
+}
+.profilepara {
+  font-size: 10px;
+}
+.jobssection {
+  max-width: 80vw;
+  min-width: 80vw;
+  display: flex;
+  flex-wrap: wrap;
+}
+.notfound {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.jobsbg1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

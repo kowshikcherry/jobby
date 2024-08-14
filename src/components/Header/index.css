@@ -1,0 +1,19 @@
+.nav-bar-mobile-logo-container {
+  display: flex;
+  justify-content: space-around;
+}
+.nav-menu {
+  display: flex;
+  list-style-type: none;
+  margin: 8px;
+}
+.nav-menu-item {
+  font-family: 'Roboto';
+  text-decoration: none;
+  margin: 10px;
+  font-weight: 400;
+  font-size: 16px;
+}
+.nav-header{
+  max-height: 10vh;
+}
